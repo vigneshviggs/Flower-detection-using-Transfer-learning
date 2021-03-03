@@ -28,7 +28,9 @@ flower_photo/
   
     tulips/
   
-## Loading the images off disk using image_dataset_from_directory utility. It will convert to tf.data.Dataset for us. 
+## Loading the images off disk using image_dataset_from_directory utility. 
+
+It will convert to tf.data.Dataset for us. 
 
 ## Data Augmentation:
 
